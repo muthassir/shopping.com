@@ -1,12 +1,38 @@
-# React + Vite
+# 🌿 Skincare Landing Page Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Demo
 
-Currently, two official plugins are available:
+[View Deployed Site](https://shopping-muthassir.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 GitHub Repository
 
-## Expanding the ESLint configuration
+[GitHub Repository](https://github.com/muthassir/shopping.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Fully responsive across **mobile**, **tablet**, and **desktop**.
+- Built with **React** and **Tailwind CSS**.
+- Smooth **GSAP animations** for a luxury feel.
+- Matches the Figma design layout and style closely.
+
+---
+
+## 🧰 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **GSAP**
+- **Vite / Create React App 
+- **Deployed on**:  Netlify
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/skincare-landing-page
+cd skincare-landing-page
+npm install
+npm run dev
