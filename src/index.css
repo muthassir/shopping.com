@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body{
+  font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
+}
+
+
+header ul li{
+  @apply  cursor-pointer
+}
+footer{
+  @apply text-[#E7E8E0]
+}
+header button{
+  @apply rounded-[50%]
+}
+button{
+  @apply cursor-pointer
+}
+
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
